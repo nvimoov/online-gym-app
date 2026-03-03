@@ -1,16 +1,22 @@
-# grad_proj
+# Online Gym Mobile Application
 
-A new Flutter project.
+Graduation Project – Software Engineering
 
-## Getting Started
+## Overview
+A Flutter-based mobile application integrated with an SQL database for managing users, subscriptions, and workout plans.
 
-This project is a starting point for a Flutter application.
+## Key Features
+- User authentication
+- Subscription management
+- Workout tracking
+- Database integration
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- Flutter
+- SQL
+- Git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## My Contribution
+- System design and analysis
+- Database schema design
+- Application development and feature implementation
